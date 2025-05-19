@@ -15,4 +15,4 @@ def pesquisa_binaria(lista, item):
     return None
 
 minha_lista = [1, 3, 6, 7, 9, 12, 16]
-print(pesquisa_binaria(minha_lista, 3))  
+print(pesquisa_binaria(minha_lista, 22))  
