@@ -19,4 +19,7 @@ int main(){
         cout << "Aluno reprovado\n";
         cout << "Media: " << media;
     }
+
+    //if else em uma linha
+    (media >= 5) ? cout << "Aprovado": cout << "Reprovado";
 }
